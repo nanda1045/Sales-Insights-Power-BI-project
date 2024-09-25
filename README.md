@@ -5,7 +5,7 @@
 
 This project showcases a comprehensive sales insights dashboard using Power BI for a computer hardware business. The dashboard provides valuable insights into sales performance, enabling data-driven decision-making and business strategy optimization.
 
-![Dashboard](WhatsApp Image 2024-09-25 at 12.02.46 AM.jpeg)
+![Dashboard](https://github.com/nanda1045/Sales-Insights-Power-BI-project/blob/main/WhatsApp%20Image%202024-09-25%20at%2012.02.46%20AM.jpeg?raw=true)
 
 
 ## Key Features
