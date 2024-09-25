@@ -5,6 +5,7 @@
 
 This project showcases a comprehensive sales insights dashboard using Power BI for a computer hardware business. The dashboard provides valuable insights into sales performance, enabling data-driven decision-making and business strategy optimization.
 
+![Dashboard](WhatsApp Image 2024-09-25 at 12.02.46 AM.jpeg)
 
 
 ## Key Features
