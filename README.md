@@ -1,5 +1,4 @@
 # Sales-Insights-Power-BI-project
-# Sales Insights Power BI Project
 
 ## Project Overview
 
